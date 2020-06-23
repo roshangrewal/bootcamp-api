@@ -46,4 +46,6 @@ Documentation only [Link](http://roshangrewal.com/bootcamp/)
 
 Report issues [here](https://github.com/roshangrewal/bootcamp-api/issues)
 
+E-mail me if any help required: roshangrewal@hotmail.com
+
 - Version: 1.0.0
